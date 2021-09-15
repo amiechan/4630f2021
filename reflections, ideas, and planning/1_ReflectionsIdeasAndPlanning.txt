@@ -1,0 +1,27 @@
+Amy Chan
+Reflections, ideas, and planning;
+
+1. As a result of listening to other students, I am interested in creating an app that could either
+benefit someone's productivity or serve as something t hepl accountability, with features to 
+encourage socialization as well.
+
+2. From my experience and what I have seen, most apps are free to download with additional / optional 
+features that can be purchased through in app purchases. I think that it encourages users to download
+the app or they may be more inclined to try it out since they do not need to pay for it, and they can 
+try out the basic features of the app. Once they have used it for a while, they may be interested in
+additional features to upgrade/enhance their experience.
+
+3. Webtoon is an app that I would consider to have excellent UI/UX. To describe it briefly, it is an
+app from the Webtoon publisher in South Korea, and they publish webcomics. The home page is attractive
+while also useful because it has a rotating banner of various webcomics that are currently being promoted,
+and it also shows the various webcomics that a user has followed and notifies them of recent updates. It
+has many useful features; for example, while scrolling to read a chapter, a user may want to continue
+reading on to the next chapter. To do this, there is a button that will allow the user to proceed to it. 
+However, there is a feature where if the user has reached the end of the page and cannot scroll any further,
+they can swipe up from the bottom of the screen to proceed to the next chapter instead of pressing a button.
+Although this seems simple, the gesture feels very natural and intuitive, and makes the reading experience
+flow together since the user will make the same/similar motions while scrolling and reading.
+
+4. At the moment, I am most interested in creating an app that encourages maintaining a regular sleep schedule. 
+I know that a similar app exists so I am not sure if I will stay with this idea, but I do think it will be fun to 
+create. However, I am still considering and brainstorming other ideas.
