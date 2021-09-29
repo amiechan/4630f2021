@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginTop="40dp"
+        android:id="@+id/linearLayout4">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/kbtext"
+            android:src="@drawable/kb1" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/kbtext"
+            android:src="@drawable/kb2" />
+
+        <TextView
+            android:id="@+id/funFacts"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fun_facts"
+            android:textColor="#6992b8"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/aboutMe1"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/from_boston"
+            android:textColor="#ae8acf"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/aboutMe2"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/student"
+            android:textColor="#ae8acf"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/aboutMe3"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/work"
+            android:textColor="#ae8acf"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/aboutMe4"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/kb"
+            android:textColor="#ae8acf"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/aboutMe5"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/course"
+            android:textColor="#ae8acf"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

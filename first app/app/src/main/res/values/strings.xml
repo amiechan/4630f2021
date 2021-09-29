@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">2_firstApp</string>
+    <string name="what_s_your_name">What\'s your name?</string>
+    <string name="hi">Hi!</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="enter">enter</string>
+    <string name="welcome">Welcome,</string>
+    <string name="amy_chan">Amy Chan</string>
+    <string name="my_name_is">My name is</string>
+    <string name="about_me">About me!</string>
+    <string name="meet_my_pup">Meet my dog!</string>
+    <string name="my_selfie">My selfie!</string>
+    <string name="my_puppy">my puppy wearing a shark hat</string>
+    <string name="chimaek_name">Name: Chimaek (치맥)</string>
+    <string name="chimaek_age">Age: 1 year 2 months</string>
+    <string name="chimaek_breed">Breed: Shiba Inu</string>
+    <string name="chimaek_food">Favorite Food: Peanut Butter</string>
+    <string name="more_pictures">More Pictures</string>
+    <string name="fun_facts">Fun Facts About Me:</string>
+    <string name="from_boston">I am from Boston</string>
+    <string name="work">I work at MIT Lincoln Lab</string>
+    <string name="student">I am an EE/CS student</string>
+    <string name="kb"><![CDATA[I collect & build mechanical keyboards]]></string>
+    <string name="course">I\'m excited to learn from this course</string>
+    <string name="kbtext">my custom keyboard</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:id="@+id/linearLayout4">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="396dp"
+            android:layout_marginTop="20dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/my_puppy"
+            android:src="@drawable/chimaek1" />
+
+        <TextView
+            android:id="@+id/chimaekName"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chimaek_name"
+
+            android:textColor="#435391"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/chimaekAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chimaek_age"
+            android:textColor="#435391"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/chimaekBreed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chimaek_breed"
+            android:textColor="#435391"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/chimaekFavFood"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chimaek_food"
+            android:textColor="#435391"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/more_pictures" />
+
+    </LinearLayout>
+
+</RelativeLayout>
